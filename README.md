@@ -1,1 +1,1 @@
-# learn-solidity-twitter-project
+# solidity-twitter-project
